@@ -12,11 +12,11 @@ public class Iteration {
         //     remainingGames--;
         // }
 
-        for (int remainingGames = 11; remainingGames > 0; remainingGames--) {
+        // for (int remainingGames = 11; remainingGames > 0; remainingGames--) {
 
-            System.out.println("GT has this many games left: " + remainingGames);
+        //     System.out.println("GT has this many games left: " + remainingGames);
 
-        }
+        // }
 
         do {
             System.out.println("GT has this many games left: " + remainingGames);

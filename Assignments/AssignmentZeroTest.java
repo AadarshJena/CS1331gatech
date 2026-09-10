@@ -1,4 +1,6 @@
-public class Test {
+package Assignments;
+
+public class AssignmentZeroTest {
 
 public static void main(String[] args){
 

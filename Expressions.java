@@ -4,7 +4,7 @@ public class Expressions {
 
 
         int saiAge = 21;
-        int saiNextAge = 21 - 2.0;  // the result of this expression will be a double, since 2.0 is a double
+        double saiNextAge = 21 - 2.0;  // the result of this expression will be a double, since 2.0 is a double
 
 
         saiAge += 1;
